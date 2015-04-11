@@ -12,7 +12,7 @@ var ListContacts = React.createClass({
     <tr>
       <th>Name</th>
       <th>Email</th>
-      <th colspan="3"></th>
+      <th colSpan="3"></th>
     </tr>
   </thead>
 
